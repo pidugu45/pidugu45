@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="center">   Hi 👋, I'm Divya Pidug  <img src="https://media4.giphy.com/media/PgnpGT8tJsWfNabS8d/giphy.gif" width="25">  </h2>
+<h2 align="center">   Hi 👋, I'm Divya Pidugu  <img src="https://media4.giphy.com/media/PgnpGT8tJsWfNabS8d/giphy.gif" width="25">  </h2>
 
 
 
