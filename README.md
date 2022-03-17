@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayuriwasu1&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pidugu45&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 <br/>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pidugu45" alt="Divya" /></p>
 <br/>
- <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pidugu45&show_icons=true&locale=en&layout=compact" alt="Divya" /></p>
+<!--  <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pidugu45&show_icons=true&locale=en&layout=compact" alt="Divya" /></p> -->
  <br/>
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
