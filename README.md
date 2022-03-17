@@ -57,7 +57,7 @@ Here are some ideas to get you started:
   <p align="center">     
  👩‍💻 Connect with me:
   </p>
-<p align="center" ><a href="linkedin.com/in/divya-pidugu-945196206" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
+<p align="center" ><a href="https://www.linkedin.com/in/divya-pidugu-945196206/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
 </p>
 </p>
 
